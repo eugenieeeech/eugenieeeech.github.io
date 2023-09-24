@@ -50,7 +50,7 @@ function fetchRepo(){
   return (
     <SimpleLayout
       title="Things I’ve been trying to build."
-      intro="I’ve worked on tons of little projects over the years. If you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+      intro="I’ve worked on many projects over the years. These are fetching from my Github. Take a look if you are interested in."
     >
       <ul
         role="list"
