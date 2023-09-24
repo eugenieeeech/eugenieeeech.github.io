@@ -48,7 +48,7 @@ function MailIcon(props: React.ComponentPropsWithoutRef<"svg">) {
 
 export const metadata: Metadata = {
   title: "About",
-  description: "I’m Eugenie Cheng. A Hong Kong developer. ",
+  description: "I’m Eugenie Cheng. A Software Engineer based in Hong Kong.",
 };
 
 export default function About() {
@@ -70,7 +70,7 @@ export default function About() {
             Hello! I’m Eugenie Cheng.
           </h1>
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            A Hong Kong Developer.
+          A Software Engineer based in Hong Kong.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>Developing Future.</p>
@@ -78,13 +78,13 @@ export default function About() {
         </div>
         <div className="lg:pl-20">
           <ul role="list">
-            <SocialLink href="#" icon={TwitterIcon}>
+            <SocialLink href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" icon={TwitterIcon}>
               Follow on X
             </SocialLink>
             <SocialLink href="https://www.github.com/eugenieeeech" icon={GitHubIcon} className="mt-4">
               Follow on GitHub
             </SocialLink>
-            <SocialLink href="#" icon={LinkedInIcon} className="mt-4">
+            <SocialLink href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" icon={LinkedInIcon} className="mt-4">
               Follow on LinkedIn
             </SocialLink>
             <SocialLink
