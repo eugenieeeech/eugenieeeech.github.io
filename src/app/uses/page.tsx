@@ -64,8 +64,8 @@ export default function Uses() {
             I have been using VSCode since Day 0 of my coding history.
           </Tool>
           <Tool title="DBeaver">
-            Great software for working with databases. Open Source with cute
-            Beaver Icon.
+            Great software for working with databases. It's Open Source and it
+            come with cute Beaver Icon.
           </Tool>
         </ToolsSection>
       </div>
